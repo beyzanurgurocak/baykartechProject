@@ -312,8 +312,8 @@ export default function Home() {
               objectFit="contain"
               width={256}
               height={286}
-              className="absolute top-48 rounded-b-[20px] w-full sm:w-auto z-30"
-              style={{ left: "32rem" }}
+              className="absolute top-48 rounded-b-[20px] w-48 sm:w-auto z-30 overflow-hidden left-[8rem] sm:left-[32rem]"
+              
             />
           </div>
         </div>
