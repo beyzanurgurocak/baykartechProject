@@ -19,3 +19,9 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@layer utilities {
+  .bg-custom-gradient {
+    background: linear-gradient(45deg, #FFFBEB, #FFFFFF);
+  }
+}
