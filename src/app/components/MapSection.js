@@ -46,6 +46,7 @@ export default function MapSection() {
       <div className="absolute top-[50%] left-[60%] w-5 h-5 bg-green-500 rounded-full border-2 border-white z-10"></div>
       <div className="absolute top-[70%] left-[80%] w-5 h-5 bg-green-500 rounded-full border-2 border-white z-10"></div>
       {/* İstediğiniz diğer noktaları ekleyin */}
+      {/* ilyas benim abim */}
     </div>
   );
 }
